@@ -367,7 +367,7 @@ ${usedPrefix}tienda vender basura 10
                         } else conn.reply(m.chat, `No tienes suficiente hierro para vender`, m)
                         break
                 default:
-                    return conn.reply(m.chat, Kchat, text, { quoted: m, contextInfo: { externalAdReply:{title: `\t\t\t\tTIENDA GATABOT`, previewType:"PHOTO",thumbnail: shoprpg, sourceUrl:``}}})
+                    return conn.reply(m.chat, Kchat, text, { quoted: m, contextInfo: { externalAdReply:{title: `\t\t\t\tTIENDA SASUKEBOT`, previewType:"PHOTO",thumbnail: shoprpg, sourceUrl:``}}})
             }
         }
     } catch (e) {
