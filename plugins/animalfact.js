@@ -8,7 +8,7 @@ let handler = async (m, { conn, text, usedPrefix, command }) => {
 
 *Ejemplo de uso:*
 *${usedPrefix}${command} dog*\n
-*┌〔 🐈 OPCIONES 🐈 〕*
+*┌〔 🌀 OPCIONES 🌀 〕*
 *├* _dog_
 *├* _cat_
 *├* _panda_
